@@ -1,4 +1,4 @@
-# LuckyNumber Smart Contract
+# PhoneMarket Smart Contract
 
 This Solidity smart contract manages a marketplace for phones on the Ethereum blockchain. It allows users to add new phones, update their prices, mark them as sold, and provides functions to test contract conditions using assert, require, and revert
 ## Description
